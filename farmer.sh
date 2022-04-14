@@ -6,4 +6,4 @@
 # 将WALLET_ADDRESS修改为自己的钱包地址
 # 例子：nohup ./farmer farm --reward-address st8N65fpjgVguZr7kxVk4FMcZphZF465uzDThGhz24BPyQy4v > farmer.log 2>&1 &
 
-nohup ./farmer farm --reward-address stBhn1epCrEFw29F8uZVo19LHfAT3ZoKASm1PzeR3TFZc7eBR > farmer.log 2>&1 &
+nohup ./farmer farm --reward-address st6eU9WayK5YcBoJGyk5gn3wE7Efb9vxiwGWgwJ7D9SsyqjBB > farmer.log 2>&1 &
