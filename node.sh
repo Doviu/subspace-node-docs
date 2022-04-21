@@ -30,5 +30,5 @@ nohup ./node \
   --validator \
   --telemetry-url "wss://telemetry.polkadot.io/submit/ 1" \
   --telemetry-url "wss://telemetry.subspace.network/submit 1" \
-  --name subspace19 \
+  --name subspace20 \
   > node.log 2>&1 &
